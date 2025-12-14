@@ -4,7 +4,7 @@
 
 AULA es un repositorio académico diseñado para permitir a los estudiantes almacenar, organizar y consultar apuntes en formato de imagen. El sistema utiliza reconocimiento óptico de caracteres (OCR) para extraer automáticamente el texto de las imágenes subidas, facilitando la búsqueda y el acceso a la información académica.
 
-El proyecto está desarrollado como una aplicación web moderna utilizando Vite, React y TypeScript en el frontend, con Supabase como backend (autenticación, base de datos y almacenamiento de archivos), e интегra la API de OCR Space para el procesamiento de texto.
+El proyecto está desarrollado como una aplicación web moderna utilizando Vite, React y TypeScript en el frontend, con Supabase como backend (autenticación, base de datos y almacenamiento de archivos), e integra la API de OCR Space para el procesamiento de texto.
 
 ---
 
